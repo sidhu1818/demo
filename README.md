@@ -1,2 +1,3 @@
-# demo
-This is my first git repository
+# SS.demo
+This is my first git repository.
+By Sidhanth
